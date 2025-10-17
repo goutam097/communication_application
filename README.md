@@ -6,24 +6,24 @@ This project is designed to provide a fast, secure, and user-friendly communicat
 
 ## 🚀 Features
 
-💬 One-to-One Messaging
-👥 Group Chat
-📞 Audio Calling
-🎥 Video Calling
-🟢 Real-time Typing & Online Status
-📨 Message Notifications
-🧑‍💻 Modern and Responsive UI
-🧰 Tech Stack
+- 💬 One-to-One Messaging
+- 👥 Group Chat
+- 📞 Audio Calling
+- 🎥 Video Calling
+- 🟢 Real-time Typing & Online Status
+- 📨 Message Notifications
+- 🧑‍💻 Modern and Responsive UI
+- 🧰 Tech Stack
 
 ## Frontend
 
-⚛️ React
-🧠 socket.io-client
-🎨 CSS / SCSS / Bootstrap
+- ⚛️ React
+- 🧠 socket.io-client
+- 🎨 CSS / SCSS / Bootstrap
 
 ## Backend
 
-🟢 Node.js
-🚀 Express
-🗃️ MongoDB
-🔌 socket.io
+- 🟢 Node.js
+- 🚀 Express
+- 🗃️ MongoDB
+- 🔌 socket.io
