@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.FlexBox {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
