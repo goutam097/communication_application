@@ -60,14 +60,14 @@
     background: #fafafa;
     position: fixed;
     bottom: 60px;
-    max-width: 1170px;
+    width: calc(100% - 370px);
 }
 
 .preview-grid {
     display: flex;
     gap: 8px;
     overflow-x: scroll;
-    width: 1155px;
+    
 }
 
 .preview-item {

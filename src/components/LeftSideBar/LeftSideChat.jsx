@@ -6,19 +6,19 @@ const LeftSideChat = () => {
     <div className="LeftSideWrapper">
 
       <div className="px-4 pt-4 ChatBar">
-         <h4 className="">Chats</h4>
-           <div className="search-box chat-search-box">            
-                <div className="input-group mb-3 rounded-3">
-                   <span className="input-group-text text-muted bg-light" id="basic-addon1">
-                     <i className="fa-solid fa-magnifying-glass"></i>
-                    </span>
-                      <input type="text" className="form-control bg-light" placeholder="Search messages or users" aria-label="Search messages or users" aria-describedby="basic-addon1"/>
-                  </div> 
-          </div> 
+        <h4 className="">Chats</h4>
+        <div className="search-box chat-search-box">
+          <div className="input-group mb-3 rounded-3">
+            <span className="input-group-text text-muted bg-light" id="basic-addon1">
+              <i className="fa-solid fa-magnifying-glass"></i>
+            </span>
+            <input type="text" className="form-control bg-light" placeholder="Search messages or users" aria-label="Search messages or users" aria-describedby="basic-addon1" />
+          </div>
+        </div>
       </div>
       <div className="sunfire-chat">
         <ul className="sunfire-chat-list">
-          
+
           <li className="sunfire-chat-item">
             <a href="#">
               <div className="s-chat-row">

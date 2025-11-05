@@ -20,9 +20,16 @@
             .back-btn {
                 display: none;
                 border: none;
-                background: transparent;
+                // background: transparent;
                 font-size: 20px;
                 cursor: pointer;
+
+                @media(max-width: 767px) {
+                    display: unset;
+                    background-color: unset;
+                    color: #222;
+                    
+                }
             }
 
             .user-avatar .avatar-img {
